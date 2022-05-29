@@ -1,6 +1,6 @@
 ### fieldset
 - 필드셋 요소는 웹 양식의 여러 컨트롤과 레이블(label)을 묶을 때 사용한다.
-- 
+
 ###  legend
 - 레전드 요소는 부모 fieldset콘텐츠의 설명을 나타낸다.
 
@@ -12,9 +12,9 @@
     - 조상 중 form 요소 있으면 해당 form과 연결됨
     
 ### option
-    - 속성
-        - selected - 기본 선택
-        - disabled - 선택할 수 없음
+- 속성
+    - selected - 기본 선택
+    - disabled - 선택할 수 없음
         
 ### optgroup 
 - option 묶을때 사용
